@@ -6,8 +6,8 @@ I'm from Turkey and I do some development. I really enjoy learning languages and
 
 Skills: JAVA, Kotlin, JavaSpringBoot, C#, Unity
 
-:battery:	:computer: I’m currently learning Java, JavaSpring and Kotlin 
-📫 Reach me: eray_btgn@outlook.com 
+- :battery:	:computer: I’m currently learning Java, JavaSpring and Kotlin 
+- 📫 Reach me: eray_btgn@outlook.com 
 
 
 [linkedin]: https://www.linkedin.com/in/eray-batigun/
