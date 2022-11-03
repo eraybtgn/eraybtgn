@@ -1,21 +1,14 @@
-### Hi there 👋,I'm Eray 
+### Hi there 👋, Eray Batıgün
 #### Design and Development
 ![Design and Development](https://github.com/eraybtgn/eraybtgn/blob/main/WallpaperDog-20541095.jpg)
 
-I'm from Turkey and I do some development. I really enjoy learning languages and frameworks like JAVA , JavaSpring, Kotlin, C# and I am also studying electrical and electronics engineering.I am a person who is interested in the field of Informatics and Electronic devices and has a good level of English (writing, listening, speaking) who continues his education through these areas, can think analytically, open to self-improvement, strong communication skills, sociable, solution-oriented person.
+I'm from Turkey and I do some development. I really enjoy learning languages and frameworks like JAVA , JavaSpring, Kotlin, C# and I am also studying electrical and electronics engineering and I have a good level of English (writing, listening, speaking) furthermore I am an analytical thinker, open to self-development, strong communication skills, sociable and solution-oriented.
 
 Skills: JAVA, Kotlin, JavaSpringBoot, C#, Unity
 
-- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Java, JavaSpring and Kotlin 
+- 📫 How to reach me: eray_btgn@outlook.com 
 
 
-
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eraybtgn)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/eraybtgn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/eray-batigun//)  
 
