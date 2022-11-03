@@ -1,4 +1,4 @@
-### Hi there 👋, Eray Batıgün
+### Hi there 👋,I'm Eray
 #### Design and Development
 ![Design and Development](https://github.com/eraybtgn/eraybtgn/blob/main/WallpaperDog-20541095.jpg)
 
