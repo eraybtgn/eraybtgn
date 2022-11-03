@@ -13,3 +13,8 @@ Skills: JAVA, Kotlin, JavaSpringBoot, C#, Unity
 [linkedin]: https://www.linkedin.com/in/eray-batigun/
 [<img height="28" width="28" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>][linkedin]  
 
+<br><br>
+<details><summary>Github Stats</summary><img src="https://github-readme-stats.vercel.app/api?username=eraybtgn&theme=radical">
+</details>
+<details><summary>Most Used Languages</summary><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eraybtgn&layout=compact">
+</details>
