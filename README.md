@@ -16,7 +16,6 @@ Skills: JAVA, Kotlin, JavaSpringBoot, C#, Unity
 
 
 <br><br>
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <details><summary>Github Stats</summary><img src="https://github-readme-stats.vercel.app/api?username=eraybtgn&theme=radical">
 </details>
 <details><summary>Most Used Languages</summary><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eraybtgn&layout=compact">
